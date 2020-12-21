@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Paramesh Chandra"
   avatar : "/assets/images/robot1.png"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Just a curious fellow"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -82,10 +82,10 @@ footer:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://paramphy.github.io/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/ur_joker_param"
 
 defaults:
   # _posts
