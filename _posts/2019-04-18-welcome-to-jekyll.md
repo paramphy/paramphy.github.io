@@ -10,17 +10,17 @@ tags:
 Arduino Code
 ```C
 /*
-  DIP-COATER INSTRUMENT CODE
-  
- This sketch is for running a dip-coater instrument controlled by an
- arduino and drived by a servo-motor. The progress is reported on 16X2 
- LCD display.
- originally added 16 Dec 2020
- by Paramesh Chandra
+ DIP-COATER INSTRUMENT CODE
  
- This code is in the public domain.
- https://github.com/paramphy/DIp-Coater.git
- */
+This sketch is for running a dip-coater instrument controlled by an
+arduino and drived by a servo-motor. The progress is reported on 16X2 
+LCD display.
+originally added 16 Dec 2020
+by Paramesh Chandra
+
+This code is in the public domain.
+https://github.com/paramphy/DIp-Coater.git
+*/
 
 // include the library code:
 #include <LiquidCrystal.h>
