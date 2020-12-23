@@ -79,6 +79,6 @@ Circuit Diagram:
 
 ![Circuit Diagram](\../assets/CIrcuit.png)
 
-Check out the [Github Code][github-code] for more info. File all bugs/feature requests at [GitHub repo][jekyll-gh].
+Check out the [Github Code][github-code] for more info. File all bugs/feature requests at [GitHub repo][github-code].
 
 [github-code]: https://github.com/paramphy/DIp-Coater.git
