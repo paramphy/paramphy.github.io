@@ -8,7 +8,7 @@ tags:
   - instrument
 ---
 Arduino Code
-```C++
+```C
 /*
   DIP-COATER INSTRUMENT CODE
   
